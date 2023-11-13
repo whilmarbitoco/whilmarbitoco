@@ -1,5 +1,6 @@
 # 💫 About Me:
-Self-taught web developer with a strong foundation in frontend development and experience in building RESTful APIs.
+<p>Self-taught web developer with a strong foundation in frontend development and experience in building RESTful APIs.</p>
+
 ![](https://github.com/whilmarbitoco/whilmarbitoco/blob/main/res.gif)
 
 ## 🏆 GitHub Trophies
