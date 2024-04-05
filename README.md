@@ -138,9 +138,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/output/snake.svg" alt="Snake animation" />
-
-###
