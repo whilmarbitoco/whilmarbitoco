@@ -3,7 +3,6 @@
 </div>
 
 ---
-
 🌟 **Hey there! I'm Whilmar Bitoco** 🌟  
 🎓 A passionate college student diving deep into the tech world.  
 💡 I thrive on solving challenging problems and exploring innovative solutions.  
