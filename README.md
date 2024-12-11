@@ -1,7 +1,6 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/main/res.gif" />
 </div>
-
 ---
 🌟 **Hey there! I'm Whilmar Bitoco** 🌟  
 🎓 A passionate college student diving deep into the tech world.  
