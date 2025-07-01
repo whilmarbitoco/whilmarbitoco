@@ -9,8 +9,8 @@
 ✨ Focused on writing clean, efficient code and staying ahead with the latest technologies.  
 📚 Always learning, building, and pushing boundaries!  
 
-> _"Keep coding and let the bugs teach you!"_ 🐛⚡  
-
+> _"Programs must be written for people to read, and only incidentally for machines to execute."_ 🐛⚡  
+- Harold Abelson
 ---
 
 <div align="center">
