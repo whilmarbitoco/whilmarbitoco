@@ -3,84 +3,101 @@
 </div>
 
 ---
-🌟 **Hey there! I'm Whilmar Bitoco** 🌟  
-🎓 A passionate college student diving deep into the tech world.  
-💡 I thrive on solving challenging problems and exploring innovative solutions.  
-✨ Focused on writing clean, efficient code and staying ahead with the latest technologies.  
-📚 Always learning, building, and pushing boundaries!  
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> -Harold Abelson
----
+# 👋 Hey, I’m Whilmar Bitoco  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whilmarbitoco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whilmarbitoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+🚀 I build **modern applications** that bring ideas to life—from **scalable backends** and **real-time APIs** to **intuitive user interfaces** designed with performance and elegance in mind.  
+
+I specialize in crafting **end-to-end solutions** where reliability, clean architecture, and developer experience are always at the core. Whether it’s architecting systems, optimizing databases, or experimenting with cutting-edge frameworks, I thrive on building software that actually *matters*.  
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/whilmarbitoco/count.svg?" />
-</div>
+### 🌟 What I Do
+- 🛠️ **Full-stack Development** – Designing and developing complete solutions from frontend to backend.  
+- ⚡ **Scalable Systems** – Building APIs and services optimized for performance and maintainability.  
+- 🎨 **UI/UX-Driven Frontends** – Creating responsive and beautiful interfaces powered by frameworks like React, Vue, and Next.js.  
+- 🧩 **Problem Solving** – Breaking down complex problems into elegant, efficient code.  
+- 📈 **Continuous Growth** – Always exploring new technologies and best practices to stay ahead of the curve.  
 
 ---
 
-## 🛠️ Languages and Tools
+### ✨ Philosophy
+I believe great software is not just about writing code—it’s about building solutions that are **human-centric, scalable, and timeless**.  
+Code should be **clear enough for others to read** and **robust enough for systems to trust**.  
 
-### 💻 Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="Nuxt.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-</div>
+> "Programs must be written for people to read, and only incidentally for machines to execute."  
+> — Harold Abelson
 
-### 🌐 Backend
-<div>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
-</div>
+## 🛠️ Tech Stack – From Design to Maintenance
 
-### 📊 Database
-<div>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-</div>
+### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Wireframing-000000?style=for-the-badge&logo=sketch&logoColor=white)
 
-### 🛠️ Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-</div>
+---
 
-### 🌟 Others
-<div>
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/codepen/000000" height="40" alt="CodePen" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
-</div>
+### 💻 Frontend Development
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Vue.js](https://skillicons.dev/icons?i=vue)
+![Svelte](https://skillicons.dev/icons?i=svelte)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Vite](https://skillicons.dev/icons?i=vite)
+
+---
+
+### 🌐 Backend Development
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+### 📊 Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### ⚙️ DevOps & Maintenance
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧪 Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+### 📚 Others
+![Markdown](https://skillicons.dev/icons?i=md)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+
+
