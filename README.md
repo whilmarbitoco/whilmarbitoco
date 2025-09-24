@@ -4,39 +4,83 @@
 
 ---
 
-# 👋 Hi, I’m Whilmar Bitoco  
-
-I’m a **Full-Stack Developer** and aspiring **Cloud Engineer** passionate about building **modern, scalable, and elegant applications**.  
-From **robust backends** and **real-time APIs** to **user-friendly frontends**, I design software that blends performance, clean architecture, and intuitive design.  
-
-🌍 Based in the Philippines | 📧 [Email Me](mailto:whlmrbitoco@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/whlmrbitoco/) | 💻 [Portfolio](https://whilmarbitoco.vercel.app)  
+```javascript
+  const whilmar = {
+  name: 'Whilmar Bitoco',
+  tagline: 'Building modern applications that bring ideas to life.',
+  bio: 'I specialize in crafting end-to-end solutions where reliability, clean architecture, and developer experience are always at the core. I build scalable backends, real-time APIs, and intuitive user interfaces with a focus on performance and elegance.',
+  philosophy: {
+    quote: 'Programs must be written for people to read, and only incidentally for machines to execute.',
+    author: 'Harold Abelson',
+    summary: 'Great software is human-centric, scalable, and timeless. Code should be clear for others to read and robust for systems to trust.',
+  },
+  specialties: [
+    'Full-stack Development',
+    'Scalable Systems',
+    'UI/UX-Driven Frontends',
+    'Problem Solving',
+    'Continuous Growth',
+  ],
+  techStack: {
+    design: [
+      'Figma',
+      'Adobe XD',
+      'Wireframing'
+    ],
+    frontend: [
+      'HTML5',
+      'CSS3',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Vue.js',
+      'Svelte',
+      'Next.js',
+      'Nuxt.js',
+      'Tailwind',
+      'Bootstrap',
+      'Vite',
+    ],
+    backend: [
+      'Node.js',
+      'Express.js',
+      'Laravel',
+      'Django',
+      'Flask',
+      'FastAPI',
+      'Java',
+      'Python',
+      'C',
+      'Socket.io',
+    ],
+    databases: [
+      'MySQL',
+      'SQLite',
+      'MongoDB',
+      'Sequelize',
+      'Eloquent',
+      'Django ORM',
+    ],
+    devops: [
+      'Git',
+      'GitHub',
+      'Docker',
+      'Linux',
+      'Apache',
+      'Bash',
+      'Postman',
+    ],
+    testing: [
+      'Selenium',
+      'Unit Testing'
+    ],
+    others: [
+      'Markdown',
+      'WordPress',
+      'CodePen'
+    ],
+  },
+};
+```
 
 ---
-
-## 🚀 What I Do
-- 🛠️ **Full-Stack Development** – Building complete solutions from frontend to backend.  
-- ⚡ **Scalable Systems** – Designing APIs, microservices, and real-time applications for growth.  
-- 🎨 **UI/UX Development** – Creating responsive, accessible, and performance-driven interfaces with React, Vue, and Next.js.  
-- 🧩 **Problem Solving** – Turning complex problems into efficient, maintainable code.  
-- 📈 **Continuous Learning** – Exploring cloud technologies, DevOps, and modern frameworks.  
-
----
-
-## 💡 Philosophy
-I believe great software is **human-centric, scalable, and timeless**.  
-Code should be **clear enough for developers** and **robust enough for systems**.  
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."  
-> — Harold Abelson
-
----
-
-## 📫 Let’s Connect  
-- 🌐 Portfolio: [whilmarbitoco.vercel.app](https://whilmarbitoco.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/whilmarbitoco](https://www.linkedin.com/in/whilmarbitoco/)  
-- 📧 Email: [whlmrbitoco@gmail.com](mailto:whlmrbitoco@gmail.com)  
-- 💻 GitHub: [github.com/whilmarbitoco](https://github.com/whilmarbitoco)  
-
----
-
-⭐️ **If you like my work, consider giving a star to my repositories—it helps a lot!**  
