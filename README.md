@@ -2,85 +2,59 @@
   <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/main/res.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
 </div>
 
----
-
-```javascript
-  const whilmar = {
-  name: 'Whilmar Bitoco',
-  tagline: 'Building modern applications that bring ideas to life.',
-  bio: 'I specialize in crafting end-to-end solutions where reliability, clean architecture, and developer experience are always at the core. I build scalable backends, real-time APIs, and intuitive user interfaces with a focus on performance and elegance.',
-  philosophy: {
-    quote: 'Programs must be written for people to read, and only incidentally for machines to execute.',
-    author: 'Harold Abelson',
-    summary: 'Great software is human-centric, scalable, and timeless. Code should be clear for others to read and robust for systems to trust.',
-  },
-  specialties: [
-    'Full-stack Development',
-    'Scalable Systems',
-    'UI/UX-Driven Frontends',
-    'Problem Solving',
-    'Continuous Growth',
-  ],
-  techStack: {
-    design: [
-      'Figma',
-      'Adobe XD',
-      'Wireframing'
-    ],
-    frontend: [
-      'HTML5',
-      'CSS3',
-      'JavaScript',
-      'TypeScript',
-      'React',
-      'Vue.js',
-      'Svelte',
-      'Next.js',
-      'Nuxt.js',
-      'Tailwind',
-      'Bootstrap',
-      'Vite',
-    ],
-    backend: [
-      'Node.js',
-      'Express.js',
-      'Laravel',
-      'Django',
-      'Flask',
-      'FastAPI',
-      'Java',
-      'Python',
-      'C',
-      'Socket.io',
-    ],
-    databases: [
-      'MySQL',
-      'SQLite',
-      'MongoDB',
-      'Sequelize',
-      'Eloquent',
-      'Django ORM',
-    ],
-    devops: [
-      'Git',
-      'GitHub',
-      'Docker',
-      'Linux',
-      'Apache',
-      'Bash',
-      'Postman',
-    ],
-    testing: [
-      'Selenium',
-      'Unit Testing'
-    ],
-    others: [
-      'Markdown',
-      'WordPress',
-      'CodePen'
-    ],
-  },
-};
-```
-
----
+  ```bash
+  ╭─────────────────────────────────────────────────────────────────────────────╮
+  │ whilmar bitoco@devbox ── Modern TUI · Personal Dashboard                    │
+  │ ────────────────────────────────────────────────────────────────────────────│
+  │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash             |
+  │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s |
+  ╰─────────────────────────────────────────────────────────────────────────────╯
+  
+  
+  ╔═════════════════════════════════════════════════════════ SYSTEM OVERVIEW ═╗
+  ║ Host: devbox                                                              ║
+  ║ User: Whilmar                                                             ║
+  ║ Role: Building modern applications that bring ideas to life.              ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  
+  
+  ╔═════════════ PROJECTS (PROCESSES) ═╗ ╔═══════════ ABOUT / WHAT DRIVES ME ═╗
+  ║ PID   NAME             CPU    MEM  ║ ║ I believe great software isn't     ║
+  ║ ───────────────────────────────... ║ ║ just about code—it's about         ║
+  ║ 1092  KLIMA             27.4%  ... ║ ║ understanding users, solving real  ║
+  ║ 2137  SHOCK             12.8%  ... ║ ║ problems, and creating experiences ║
+  ║ 4210  GREEN BRIDGE       6.3%  ... ║ ║ that matter.                       ║
+  ║ 8625  zsh              0.9%   8M   ║ ║                                    ║
+  ║ 0044  tmux             0.2%   3M   ║ ║                                    ║
+  ╚════════════════════════════════════╝ ║ Quick facts:                       ║
+                                         ║  • Reliable backends, realtime ... ║
+                                         ║  • Focus on performance, clean ... ║
+                                         ╚════════════════════════════════════╝
+  
+  
+  ╔═════════════════════════════════════════════ TECH STACK (MODULES LOADED) ═╗
+  ║ DESIGN     | Figma, Adobe XD, Wireframing                                 ║
+  ║ FRONTEND   | HTML5, CSS3, JavaScript, TypeScript, React, Vue.js,          ║
+  ║               Svelte, Next.js, Nuxt.js, Tailwind, Bootstrap, Vite         ║
+  ║ BACKEND    | Node.js, Express.js, Laravel, Django, Flask, FastAPI,        ║
+  ║               Java, Python, C, Socket.io                                  ║
+  ║ DATABASES  | MySQL, SQLite, MongoDB, Sequelize, Eloquent, Django ORM      ║
+  ║ DEVOPS     | Git, GitHub, Docker, Linux, Apache, Bash, Postman            ║
+  ║ TESTING    | Selenium, Unit Testing                                       ║
+  ║ OTHERS     | Markdown, WordPress, CodePen                                 ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  
+  
+  ╔═════════════════════════════════════════════════════════════ SPECIALTIES ═╗
+  ║ • Full-stack Development        • Scalable Systems                        ║
+  ║ • UI/UX-Driven Frontends        • Problem Solving                         ║
+  ║ • Continuous Growth             •                                         ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  
+  
+  ╔═════════════════════════════════════════════════════════════ QUICK LINKS ═╗
+  ║ GitHub:  https://github.com/whilmar-bitoco                                ║
+  ║ Contact: email@example.com                                                ║
+  ║ Portfolio / Projects: (KLIMA | SHOCK | GREEN BRIDGE)                      ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  ```
