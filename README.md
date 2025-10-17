@@ -48,13 +48,13 @@
   ╔═════════════════════════════════════════════════════════════ SPECIALTIES ═╗
   ║ • Full-stack Development        • Scalable Systems                        ║
   ║ • UI/UX-Driven Frontends        • Problem Solving                         ║
-  ║ • Continuous Growth             •                                         ║
+  ║ • Continuous Growth             • AI/ML Development                       ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
   
   
   ╔═════════════════════════════════════════════════════════════ QUICK LINKS ═╗
-  ║ GitHub:  https://github.com/whilmar-bitoco                                ║
-  ║ Contact: email@example.com                                                ║
+  ║ GitHub:  https://github.com/whilmarbitoco                                 ║
+  ║ Contact: whlmrbitoco@gmail.com                                            ║
   ║ Portfolio / Projects: (KLIMA | SHOCK | GREEN BRIDGE)                      ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
   ```
