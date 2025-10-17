@@ -57,4 +57,6 @@
   ║ Contact: whlmrbitoco@gmail.com                                            ║
   ║ Portfolio / Projects: (KLIMA | SHOCK | GREEN BRIDGE)                      ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
+
+whilmar@devbox:~$ _
   ```
