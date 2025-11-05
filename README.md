@@ -4,7 +4,7 @@
 
   ```bash
   ╭─────────────────────────────────────────────────────────────────────────────╮
-  │ whilmar bitoco@devbox ── Modern TUI · Personal Dashboard                    │
+  │ whilmar bitoco@devbox ── Full-Stack Developer | AI/ML Enthusiast            │
   │ ────────────────────────────────────────────────────────────────────────────│
   │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash             |
   │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s |
