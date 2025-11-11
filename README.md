@@ -13,7 +13,7 @@
   
   ╔═════════════════════════════════════════════════════════ SYSTEM OVERVIEW ═╗
   ║ Host: devbox                                                              ║
-  ║ User: Whilmar                                                             ║
+  ║ User: wb2c0                                                             ║
   ║ Role: Building modern applications that bring ideas to life.              ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
   
