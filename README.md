@@ -1,7 +1,6 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/main/res.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
 </div>
-
   ```bash
   ╭─────────────────────────────────────────────────────────────────────────────╮
   │ whilmar bitoco@devbox ── Full-Stack Developer | AI/ML Enthusiast            │
