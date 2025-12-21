@@ -7,30 +7,14 @@
   │ whilmar bitoco@devbox ── Full-Stack Developer | AI/ML Enthusiast            │
   │ ────────────────────────────────────────────────────────────────────────────│
   │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash             │
-  │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s        │
+  │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s │
   ╰─────────────────────────────────────────────────────────────────────────────╯
-  
   
   ╔═════════════════════════════════════════════════════════ SYSTEM OVERVIEW ═╗
   ║ Host: devbox                                                              ║
   ║ User: wb2c0                                                               ║
   ║ Role: Building modern applications that bring ideas to life.              ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
-  
-  
-  ╔═════════════ PROJECTS (PROCESSES) ═╗ ╔═══════════ ABOUT / WHAT DRIVES ME ═╗
-  ║ PID   NAME             CPU    MEM  ║ ║ I believe great software isn't     ║
-  ║ ───────────────────────────────... ║ ║ just about code—it's about         ║
-  ║ 1092  KLIMA             27.4%  ... ║ ║ understanding users, solving real  ║
-  ║ 2137  SHOCK             12.8%  ... ║ ║ problems, and creating experiences ║
-  ║ 4210  GREEN BRIDGE       6.3%  ... ║ ║ that matter.                       ║
-  ║ 8625  zsh              0.9%   8M   ║ ║                                    ║
-  ║ 0044  tmux             0.2%   3M   ║ ║                                    ║
-  ╚════════════════════════════════════╝ ║ Quick facts:                       ║
-                                         ║  • Reliable backends, realtime ... ║
-                                         ║  • Focus on performance, clean ... ║
-                                         ╚════════════════════════════════════╝
-  
   
   ╔═════════════════════════════════════════════ TECH STACK (MODULES LOADED) ═╗
   ║ DESIGN     | Figma, Adobe XD, Wireframing                                 ║
@@ -44,13 +28,11 @@
   ║ OTHERS     | Markdown, WordPress, CodePen                                 ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
   
-  
   ╔═════════════════════════════════════════════════════════════ SPECIALTIES ═╗
   ║ • Full-stack Development        • Scalable Systems                        ║
   ║ • UI/UX-Driven Frontends        • Problem Solving                         ║
   ║ • Continuous Growth             • AI/ML Development                       ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
-  
   
   ╔═════════════════════════════════════════════════════════════ QUICK LINKS ═╗
   ║ GitHub:  https://github.com/whilmarbitoco                                 ║
@@ -59,7 +41,4 @@
   ╚═══════════════════════════════════════════════════════════════════════════╝
 
 whilmar@devbox:~$ \_
-
-```
-
 ```
