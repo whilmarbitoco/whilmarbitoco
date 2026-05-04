@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/main/res.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
+  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/refs/heads/main/9070324cdfc07c68d60eed0c39e77573.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
 </div>
   
 ```bash
