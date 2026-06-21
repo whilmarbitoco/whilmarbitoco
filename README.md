@@ -4,7 +4,7 @@
   
 ```bash
   ╭─────────────────────────────────────────────────────────────────────────────╮
-  │ whilmar bitoco@devbox ── Full-Stack Developer | AI/ML Enthusiast            │
+  │ whilmar bitoco@devbox ── Full-Stack Developer | Cloud & AI/ML Engineer            │
   │ ────────────────────────────────────────────────────────────────────────────│
   │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash             │
   │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s │
@@ -37,7 +37,7 @@
   ╔═════════════════════════════════════════════════════════════ QUICK LINKS ═╗
   ║ GitHub:  https://github.com/whilmarbitoco                                 ║
   ║ Contact: whlmrbitoco@gmail.com                                            ║
-  ║ Portfolio / Projects: (KLIMA | SHOCK | GREEN BRIDGE)                      ║
+  ║ Portfolio / Projects: (SHOCK | HRMS | FRAMS | SMART CONTRACT ESCROW | PH DISASTER MONITOR | SCYLLA)                      ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
 
 whilmar@devbox:~$ \_
