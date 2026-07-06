@@ -1,56 +1,56 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/refs/heads/main/9070324cdfc07c68d60eed0c39e77573.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
+  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/refs/heads/main/geek.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
 </div>
   
 ```bash
-  ╭─────────────────────────────────────────────────────────────────────────────╮
-  │ whilmar bitoco@devbox ── Full-Stack Developer | Cloud & AI/ML Engineer            │
-  │ ────────────────────────────────────────────────────────────────────────────│
-  │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash             │
-  │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s │
-  ╰─────────────────────────────────────────────────────────────────────────────╯
+  ╭────────────────────────────────────────────────────────────────────────────────╮
+  │ whilmarbitoco@devbox ── Full-Stack Developer | Cloud & AI/ML Engineer          │
+  │ ───────────────────────────────────────────────────────────────────────────────│
+  │ Uptime: 12h 8m     | Load: 0.40 0.49 0.24         | Shell: bash                │
+  │ [CPU] ▉▉▉   16.6%    [MEM] ▉▉▉▉▉▉  26.1%    [NET] ↑ 21KB/s ↓ 210KB/s           │
+  ╰────────────────────────────────────────────────────────────────────────────────╯
   
-  ╔═════════════════════════════════════════════════════════ SYSTEM OVERVIEW ═╗
-  ║ Host: devbox                                                              ║
-  ║ User: wb2c0                                                               ║
-  ║ Role: Building modern applications that bring ideas to life.              ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
+    ╔═════════════════════════════════════════════════════════ SYSTEM OVERVIEW ═╗
+    ║ Host: devbox                                                              ║
+    ║ User: wb2c0                                                               ║
+    ║ Role: Building modern applications that bring ideas to life.              ║
+    ╚═══════════════════════════════════════════════════════════════════════════╝
   
-  ╔════════════════════════════════════════════════════════════╗
-  ║  ╔═══╗ DESIGN     | Figma, Adobe XD, Wireframing          ║
-  ╠══╣ S ╠══════════════════════════════════════════════════════╣
-  ║  ╚═══╝ FRONTEND   | HTML5, CSS3, JavaScript, TypeScript,  ║
-  ║               React, Vue.js, Svelte, Next.js, Nuxt.js,   ║
-  ║               Tailwind, Bootstrap, Vite                   ║
-  ║  ╔═══╗ BACKEND    | Node.js, Express.js, Laravel, Django, ║
-  ╠══╣ T ╠══════════════════════════════════════════════════════╣
-  ║  ╚═══╝               Flask, FastAPI, Java, Python, C,    ║
-  ║               Socket.io                                   ║
-  ║  ╔═══╗ DATABASES  | MySQL, SQLite, MongoDB, Sequelize,   ║
-  ╠══╣ A ╠══════════════════════════════════════════════════════╣
-  ║  ╚═══╝               Eloquent, Django ORM                 ║
-  ║  ╔═══╗ DEVOPS     | Git, GitHub, Docker, Linux, Apache,  ║
-  ╠══╣ C ╠══════════════════════════════════════════════════════╣
-  ║  ╚═══╝               Bash, Postman                         ║
-  ║  ╔═══╗ TESTING    | Selenium, Unit Testing                ║
-  ╠══╣ K ╠══════════════════════════════════════════════════════╣
-  ║  ╚═══╝ OTHERS     | Markdown, WordPress, CodePen         ║
-  ╚════════════════════════════════════════════════════════════╝
+        ╔════════════════════════════════════════════════════════════╗
+        ║  ╔═══╗ DESIGN     | Figma, Adobe XD, Wireframing           ║
+        ╠══╣ S ╠═════════════════════════════════════════════════════╣
+        ║  ╚═══╝ FRONTEND   | HTML5, CSS3, JavaScript, TypeScript,   ║
+        ║               React, Vue.js, Svelte, Next.js, Nuxt.js,     ║
+        ║               Tailwind, Bootstrap, Vite                    ║
+        ║  ╔═══╗ BACKEND    | Node.js, Express.js, Laravel, Django,  ║
+        ╠══╣ T ╠═════════════════════════════════════════════════════╣
+        ║  ╚═══╝               Flask, FastAPI, Java, Python, C,      ║
+        ║               Socket.io                                    ║
+        ║  ╔═══╗ DATABASES  | MySQL, SQLite, MongoDB, Sequelize,     ║
+        ╠══╣ A ╠═════════════════════════════════════════════════════╣
+        ║  ╚═══╝               Eloquent, Django ORM                  ║
+        ║  ╔═══╗ DEVOPS     | Git, GitHub, Docker, Linux, Apache,    ║
+        ╠══╣ C ╠═════════════════════════════════════════════════════╣
+        ║  ╚═══╝               Bash, Postman                         ║
+        ║  ╔═══╗ TESTING    | Selenium, Unit Testing                 ║
+        ╠══╣ K ╠═════════════════════════════════════════════════════╣
+        ║  ╚═══╝ OTHERS     | Markdown, WordPress, CodePen           ║
+        ╚════════════════════════════════════════════════════════════╝
   
-  ╔════════════════════════════════════════════════╗
-  ║              SPECIALTIES                          ║
-  ║ • Full-stack Development      • Scalable Systems ║
-  ║ • UI/UX-Driven Frontends      • Problem Solving  ║
-  ║ • Continuous Growth           • AI/ML Development ║
-  ╚════════════════════════════════════════════════╝
+            ╔═══════════════════════════════════════════════════╗
+            ║              SPECIALTIES                          ║
+            ║ • Full-stack Development   • Scalable Systems     ║
+            ║ • UI/UX-Driven Frontends   • Problem Solving      ║
+            ║ • Continuous Growth        • AI/ML Development    ║
+            ╚═══════════════════════════════════════════════════╝
   
-  ╔════════════════════════════════════════════════════════════╗
-  ║               QUICK LINKS                                     ║
-  ║ GitHub:  https://github.com/whilmarbitoco                    ║
-  ║ Contact: whlmrbitoco@gmail.com                              ║
-  ║ Portfolio: (SHOCK | HRMS | FRAMS | SMART CONTRACT ESCROW    ║
-  ║            | PH DISASTER MONITOR | SCYLLA)                  ║
-  ╚════════════════════════════════════════════════════════════╝
+        ╔════════════════════════════════════════════════════════════╗
+        ║               QUICK LINKS                                  ║
+        ║ GitHub:  https://github.com/whilmarbitoco                  ║
+        ║ Contact: hello@whilmarbitoco.qzz.i                         ║
+        ║ Portfolio: https://whilmarbitoco.vercel.app                ║
+        ║                                                            ║
+        ╚════════════════════════════════════════════════════════════╝
   
 whilmar@devbox:~$ \\_
 ```
