@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/refs/heads/main/geek.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" />
+  <img height="200" src="https://raw.githubusercontent.com/whilmarbitoco/whilmarbitoco/refs/heads/main/geek.gif" alt="Whilmar Bitoco - Full Stack Developer Banner" width="100%" />
 </div>
   
 ```bash
@@ -52,5 +52,5 @@
         ║                                                            ║
         ╚════════════════════════════════════════════════════════════╝
   
-whilmar@devbox:~$ \\_
+whilmar@devbox:~$ _
 ```
